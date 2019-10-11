@@ -1,4 +1,0 @@
-﻿CREATE TABLE [dbo].[Phone]
-(
-	[Id] INT NOT NULL PRIMARY KEY
-)
